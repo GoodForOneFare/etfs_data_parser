@@ -1,0 +1,14 @@
+iShares BRIC Index ETF
+Inception Date,"Sep 8, 2006"
+Fund Holdings as of,"06-Aug-2015"
+Total Net Assets ($000s),"$82,689,907"
+Shares Outstanding,"4,000,000"
+Stock,"-"
+Bond,"-"
+Cash,"-"
+Other,"-"
+ 
+Ticker,CUSIP,SEDOL,Name,Weight (%),Sector,Country of Risk,Market Value,Shares,Price,Exchange,Currency,Market Currency,FX Rate,Notional Value
+"CHL","16941M109","2111375","CHINA MOBILE LTD. ADS","11.58","Telecommunications","China","$9,624,402","113,997","84.43","New York Stock Exchange Inc.","CAD","USD","0.76","9,624,402.38"
+"BIDU","056752108","B0FXT17","BAIDU ADR REPTG INC CLASS A","6.98","Information Technology","China","$5,801,593","25,256","229.71","NASDAQ","CAD","USD","0.76","5,801,593.19"
+ 

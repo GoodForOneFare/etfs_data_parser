@@ -1,0 +1,17 @@
+Small-Cap Value ETF (VBR)
+Holding details,06/30/2015
+
+Stock holdings
+,SEDOL,Ticker,Holding name,Shares,Market value,% of fund*,Sector,Country,Security depository receipt type,
+,="SEDOL_1","EQUITY_1  ","NAME_1","11,111,111","$11,111,111.10","1.11111","SECTOR_1","COUNTRY_1  ",SDRT_1,
+,="SEDOL_2","EQUITY_2  ","NAME_2","22,222,222","$22,222,222.20","2.22222","SECTOR_2","COUNTRY_2  ",SDRT_2,
+Bond holdings
+,SEDOL,Holding name,Coupon/Yield,Maturity date,Face amount,Market value,% of fund*,
+,="SEDOL1","BOND_1     ","3.33333","03/04/2015","$3,333,333.36","$3,333,333.37","3.33338",
+Short-term reserve holdings
+,SEDOL,Holding name,Maturity date,Face amount,% of fund*,
+,-,"RESERVE_1",-,"$44,444,444.41","4.44442",
+
+"*Percentages may not add up to 100%. SEC regulations allow us to withhold a certain amount of holdings as proprietary information.",
+"For more information on Vanguard funds, visit www.vanguard.com, or call 800-662-7447, to obtain a prospectus. Visit our website, call 866-499-8473, or contact your broker to obtain a prospectus for Vanguard ETF® Shares. Investment objectives, risks, charges, expenses, and other important information are contained in the prospectus; read and consider it carefully before investing."
+

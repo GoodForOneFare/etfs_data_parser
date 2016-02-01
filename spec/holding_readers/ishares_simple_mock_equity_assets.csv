@@ -1,0 +1,3 @@
+Ticker,ISIN,SEDOL,Name,Weight (%),Sector,Country of Risk,Market Value,Shares,Price,Exchange,Currency,Market Currency,FX Rate,Notional Value
+"TICKER_1","ISIN_1","SEDOL_1","NAME_1","11.11","SECTOR_1","COUNTRY_1","$11,111,111","111,111","10.10","EXCHANGE_1","CAD","CAD","1.11","11,111,111.11"
+"TICKER_2","ISIN_2","SEDOL_2","NAME_2","22.22","SECTOR_2","COUNTRY_2","$22,222,222","222,222","20.20","EXCHANGE_2","USD","USD","2.22","22,222,222.22"

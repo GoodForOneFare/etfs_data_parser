@@ -1,0 +1,13 @@
+iShares Core High Quality Canadian Bond Index ETF
+Inception Date,"Nov 19, 2009"
+Fund Holdings as of,"06-Aug-2015"
+Total Net Assets ($000s),"$261,810,245"
+Shares Outstanding,"12,200,000"
+Stock,"-"
+Bond,"-"
+Cash,"-"
+Other,"-"
+ 
+Name,CUSIP,SEDOL,Weight (%),Market Value,Country of Risk,Sector,Coupon (%),Maturity,Duration,Price,Asset Class,Currency,Market Currency,FX Rate,Mod. Duration,YTM (%),Yield to Call (%),Yield to Worst (%),Notional Value
+"CANADA (GOVERNMENT OF)","135087YQ1","B39VLH8","1.23","$3,226,632","Canada","Federal","4.00","Jun 1, 2041","17.27","137.17","FI","CAD","CAD","1.00","17.56","2.12","-","2.12","3,226,632.12"
+"ONTARIO PROVINCE OF","68323ACG7","-","0.92","$2,397,285","Canada","Provincial","3.50","Jun 2, 2024","7.63","111.61","FI","CAD","CAD","1.00","7.62","2.05","-","2.05","2,397,285.36"

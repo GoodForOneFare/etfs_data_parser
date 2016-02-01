@@ -1,0 +1,14 @@
+iShares Canadian Real Return Bond Index ETF
+Inception Date,"Dec 19, 2005"
+Fund Holdings as of,"06-Aug-2015"
+Total Net Assets ($000s),"$443,831,438"
+Shares Outstanding,"17,800,000"
+Stock,"-"
+Bond,"-"
+Cash,"-"
+Other,"-"
+ 
+Name,CUSIP,SEDOL,Weight (%),Market Value,Country of Risk,Sector,Coupon (%),Maturity,Duration,Price,Asset Class,Currency,Market Currency,FX Rate,Mod. Duration,Real YTM (%),YTM (%),Yield to Call (%),Yield to Worst (%),Notional Value
+"NAME_1","CUSIP_1","SEDOL_1","11.10","$11,111,111","COUNTRY_1","SECTOR_1","1.12","Jan 1, 2041","11.13","111.14","ASSET_CLASS_1","CAD","USD","1.15","11.16","1.17","1.18","-","1.19","11,111,111.10"
+"NAME_2","CUSIP_2","SEDOL_2","22.20","$22,222,221","COUNTRY_2","SECTOR_2","2.22","Feb 2, 2042","22.23","222.24","ASSET_CLASS_2","USD","CAD","2.25","22.26","2.27","2.28","-","2.19","22,222,222.20"
+ 

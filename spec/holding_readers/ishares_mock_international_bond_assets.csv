@@ -1,0 +1,14 @@
+iShares BRIC Index ETF
+Inception Date,"Sep 8, 2006"
+Fund Holdings as of,"06-Aug-2015"
+Total Net Assets ($000s),"$82,689,907"
+Shares Outstanding,"4,000,000"
+Stock,"-"
+Bond,"-"
+Cash,"-"
+Other,"-"
+ 
+Ticker,CUSIP,SEDOL,Name,Weight (%),Sector,Country of Risk,Market Value,Shares,Price,Exchange,Currency,Market Currency,FX Rate,Notional Value
+"TICKER_1","CUSIP_1","SEDOL_1","NAME_1","11.10","SECTOR_1","COUNTRY_1","$1,111,111","111,112","11.13","EXCHANGE_1","CAD","USD","1.14","1,111,111.15"
+"TICKER_2","CUSIP_2","SEDOL_2","NAME_1","22.20","SECTOR_2","COUNTRY_2","$2,222,221","222,222","22.23","EXCHANGE_2","USD","CAD","2.24","2,222,222.25"
+ 
